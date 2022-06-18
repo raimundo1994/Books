@@ -22,7 +22,7 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Geophysics-Books/blob/master/eo(13).pdf" style="text-decoration:none;"> Numerical Methods for Fluid Dynamics: With Applications to Geophysics </a></b></li>
 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Geophysics-Books/blob/master/eo(14).pdf" style="text-decoration:none;">Planets and Moons: Treatise on Geophysics</a></b></li>
+<li><b><a target="_blank" href="https://github.com/raimundo1994/Books/blob/master/eo(1).pdf" style="text-decoration:none;">Planets and Moons: Treatise on Geophysics</a></b></li>
                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Geophysics-Books/blob/master/eo(15).pdf" style="text-decoration:none;">Potential Theory in Applied Geophysics </a></b></li>                                
          <li><b><a target="_blank" href="https://github.com/manjunath5496/Geophysics-Books/blob/master/eo(16).pdf" style="text-decoration:none;">Principles of Applied Geophysics</a></b></li>                                 
 
