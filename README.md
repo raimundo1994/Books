@@ -42,6 +42,7 @@
 
 <li><b><a target="_blank" href="https://github.com/raimundo1994/Books/blob/master/eo(23).pdf" style="text-decoration:none;"> Mineral Physics: Treatise on Geophysics </a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/raimundo1994/Books/blob/master/eo(24).pdf" style="text-decoration:none;"> Analysis of the Gravity Field: Direct and Inverse Problems </a></b></li>
 
 
 
