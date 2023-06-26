@@ -44,7 +44,9 @@
 
 <li><b><a target="_blank" href="https://github.com/raimundo1994/Books/blob/master/eo(24).pdf" style="text-decoration:none;"> Analysis of the Gravity Field: Direct and Inverse Problems </a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/raimundo1994/Books/blob/master/eo(25).pdf" style="text-decoration:none;"> Gravity and
+Magnetic Exploration: Principles, Practices, and Applications </a></b></li>
 
-
+<li><b><a target="_blank" href="https://github.com/raimundo1994/Books/blob/master/eo(26).pdf" style="text-decoration:none;"> INTERPRETATION OF GEOPHYSICAL FIELDS IN COMPLICATED ENVIRONMENTS  </a></b></li>
 
 </ul>
